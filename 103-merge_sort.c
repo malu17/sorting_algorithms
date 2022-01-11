@@ -67,3 +67,4 @@ void merge_sort(int *array, size_t size)
 	merge_sort(right, size - mid);
 	merge(array, left, right, size);
 }
+i
