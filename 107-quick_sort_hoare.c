@@ -60,3 +60,4 @@ int split(int *arr, int left, int right, size_t size)
 			return (i2);
 	}
 }
+i
